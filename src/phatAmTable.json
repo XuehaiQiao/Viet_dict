@@ -1,0 +1,12 @@
+{
+    "name": "phatAmTable",
+    "phatAmTable": {
+        "nguyen1": ["a", "\u0103", "e", "\u00ea", "i", "y", "o", "\u00f4", "\u01a1", "\u00e2", "u", "\u01b0"],
+        "nguyenPhu": ["ac", "\u0103c", "\u00e2c", "ach", "am", "\u0103m", "\u00e2m", "an", "\u0103n", "\u00e2n", "ang", "\u0103ng", "\u00e2ng", "anh", "ap", "\u0103p", "\u00e2p", "at", "\u0103t", "\u00e2t", "ec", "em", "en", "eng", "ep", "et", "\u00each", "\u00eam", "\u00ean", "\u00eanh", "\u00eap", "\u00eat", "ich", "im", "in", "inh", "ip", "it", "\u01a1c", "om", "on", "ong", "op", "ot", "\u00f4c", "\u00f4m", "\u00f4n", "\u00f4ng", "\u00f4p", "\u00f4t", "\u01a1m", "\u01a1n", "\u01a1p", "\u01a1t", "uc", "um", "un", "ung", "up", "ut", "\u01b0c", "\u01b0ng", "\u01b0t"],
+        "nguyen2": ["ai", "ao", "au", "ay", "\u00e2u", "\u00e2y", "eo", "\u00eau", "ia", "iu", "oa", "oe", "oi", "\u00f4i", "\u01a1i", "ua", "u\u00ea", "ui", "uy", "\u01b0a", "\u01b0i", "\u01b0u"],
+        "phu": ["p", "b", "m", "ph", "v", "t", "th", "\u0111", "l", "n", "c", "(k)", "kh", "qu", "g", "(gh)", "ng", "(ngh)", "nh", "h", "tr", "ch", "d", "gi", "r", "s", "x"],
+        "nguyen3": ["i\u00eau", "(y\u00eau)", "oai", "oao", "oay", "oeo", "u\u00e2y", "u\u00f4i", "uya", "uyu", "\u01b0\u01a1i", "\u01b0\u01a1u"],
+        "nguyen2Phu": ["i\u00eac", "i\u00eam", "(y\u00eam)", "i\u00ean", "(y\u00ean)", "i\u00eang", "i\u00eap", "i\u00eat", "(y\u00eat)", "oan", "oac", "oach", "oang", "oanh", "oat", "o\u0103c", "o\u0103m", "o\u0103n", "o\u0103t", "u\u00e2n", "u\u00e2t", "u\u00f4c", "u\u00f4n", "u\u00f4ng", "u\u00f4t", "uynh", "uy\u00ean", "uy\u00eat", "\u01b0\u01a1c", "\u01b0\u01a1n", "\u01b0\u01a1ng", "\u01b0\u01a1p", "\u01b0\u01a1t"]
+    
+    }
+   }
